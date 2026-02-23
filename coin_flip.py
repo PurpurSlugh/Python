@@ -1,5 +1,4 @@
 import random
-# Online Python - IDE, Editor, Compiler, Interpreter
 
 print("Insert the number of rolls for the dice: ")
 dice = int(input())
