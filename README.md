@@ -9,3 +9,6 @@ A simple coin flip simulator that calculates the percentage of Heads and Tails.
 
 random_color.py
 A small programm that choses a random color and you need to guess that color.
+
+random_number.py
+A samll programm that generates a random number and you need to guess that number.
