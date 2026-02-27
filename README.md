@@ -1,4 +1,4 @@
-# Python Programms
+# Python Programs
 All the Python programs that I've done.
 
 **calc.py**
