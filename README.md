@@ -7,6 +7,9 @@ A small calculator that calculated 2 or 3 (if selected) numbers.
 **coin_flip.py**
 A simple coin flip simulator that calculates the percentage of Heads and Tails.
 
+**gambling.py**
+A simple slot machine programm.
+
 **hello_function.py**
 A small programm that uses a function to say hi and to determinate through you're age if you can drink Jägermeister or not. 
 
