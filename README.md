@@ -4,6 +4,9 @@ All the Python programs that I've done.
 **calc.py**
 A small calculator that calculates 2 or 3 (if selected) numbers.
 
+**card_game.py**
+A simple card game in which you need to guess the card.
+
 **coin_flip.py**
 A simple coin flip simulator that calculates the percentage of Heads and Tails.
 
